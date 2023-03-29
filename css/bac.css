@@ -1,0 +1,28 @@
+
+.home{
+    background-color:#222;
+}
+
+.back{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.bg-img{
+    border: 1px solid #fff;
+    width: 250px;
+    height: 250px;
+    float:right;
+    margin-left: 300px;
+   
+}
+
+.bg-img img{
+    margin-top: -160px;
+}
+
+.card-box-img img{
+    height: 250px;
+}
+
